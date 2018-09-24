@@ -1,12 +1,11 @@
-## hello-world
 <html>
 <body>
-<h1>我的个人主页</h1>
+<h1>An Introduction of myself</h1>
 name: WANG TIE/ JEFF
 school: PKU 
 college: CCME
-phone： 13522374618
-
+Email: 2294374906@qq.com
+ ![index](https://github.com/WTQP/homepage/blob/master/erftgdfghj.png)
 </body>
 </html>
 
