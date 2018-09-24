@@ -5,7 +5,7 @@ name: WANG TIE/ JEFF
 school: PKU 
 college: CCME
 Email: 2294374906@qq.com
-![index](homepage/erftgdfghj.png)
+![index](https://github.com/WTQP/homepage/blob/master/erftgdfghj.png)
 </body>
 </html>
 
