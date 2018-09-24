@@ -9,7 +9,7 @@ College: CCME
 
 Email: 2294374906@qq.com
 
-![images](https://github.com/WTQP/homepage/blob/master/erftgdfghj.png)
+![images](images/erftgdfghj.png)
 
 Nice to meet you!
 </body>
